@@ -1,0 +1,8 @@
+bcrypt
+poetry add email-validator
+poetry add fastapi
+poetry add itsdangerous
+poetry add jinja2
+poetry add PyJWT
+poetry add python-multipart
+poetry add ujson

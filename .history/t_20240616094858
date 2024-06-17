@@ -1,0 +1,9 @@
+bcrypt
+deta
+email-validator
+fastapi
+itsdangerous
+jinja2
+PyJWT
+python-multipart
+ujson
